@@ -32,5 +32,8 @@
 
 # Branch : 
 # when a branch is created it is a replica of main branch. A developed can code in the new branch and merge this branch to the main branch and the code merges with main branch and then branch is deleted.
+# Use (git checkout developerA) to go from main branch to developerA branch 
+# once we go back to main branch the code written in developerA branch will be vanished, so we have to merge the code from developerA branch to main branch.
+
 
 # Its done. Hurrayyyyy
