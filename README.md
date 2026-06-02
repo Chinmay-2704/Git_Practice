@@ -19,4 +19,6 @@
 # (git config --global user.name "Chinmay-2704")
 # (git config --global user.email "narayan270403@gmail.com")
 
+# Use git add . (to add all the files at once)
+
 # Its done. Hurrayyyyy
