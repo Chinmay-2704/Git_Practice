@@ -21,4 +21,16 @@
 
 # Use git add . (to add all the files at once)
 
+# We can also make files in the repository and pull them in VS code using (git pull origin main) -> all the new files will be pulled. (we pulled .gitignore file)
+
+# .gitignore files are used for the files which we don't want to commit in the main branch coz they may be not useful or very large.
+
+# We create environment so that only those libraries are intalled which are needed in the project
+# python -m venv python==3.11 -y
+# -y is used if it ask for any permission it automatically give it yes
+# Not pushed in github repo (write venv/ in the .gitignore file before commiting all)
+
+# Branch : 
+# when a branch is created it is a replica of main branch. A developed can code in the new branch and merge this branch to the main branch and the code merges with main branch and then branch is deleted.
+
 # Its done. Hurrayyyyy
